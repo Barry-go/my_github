@@ -1,3 +1,4 @@
+//작성자 : 20261663 고승희
 #include<stdio.h>
 int main(void)
 {
