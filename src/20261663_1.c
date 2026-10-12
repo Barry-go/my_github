@@ -1,4 +1,5 @@
 //작성자 : 20261663 고승희
+// 오픈소스기초설계 과제용 업로드
 #include<stdio.h>
 int main(void)
 {
